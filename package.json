@@ -1,0 +1,26 @@
+{
+  "name": "gulp-material",
+  "version": "0.0.0",
+  "description": "make mojoio-material accessible through gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "npmts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojoio/gulp-material.git"
+  },
+  "keywords": [
+    "material",
+    "design"
+  ],
+  "author": "Lossless Digital UG (haftungsbeschraenkt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mojoio/gulp-material/issues"
+  },
+  "homepage": "https://github.com/mojoio/gulp-material#readme",
+  "dependencies": {
+    "mojoio-material": "0.0.0"
+  }
+}
